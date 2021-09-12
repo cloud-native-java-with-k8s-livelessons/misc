@@ -55,3 +55,9 @@
 	* using the Kubernetes Java API 
 	* Turning the application into a native binary with GraalVM and Spring Native 
 
+* That continuous thing 
+	* talking about continuous integration and continuous delivery 
+		* maybe show how to setup Github Actions and use 
+	* gitops 
+	* should each microservice deploy itself, or should each microservice kick off a CD pipeline which takes care to deploy everything as necessary? 
+
