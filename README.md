@@ -27,7 +27,7 @@
 * Kotlin 
 	* Reactive Streams and coroutines 
 
-* RSocket 
+* RSocket (done)
 	* basic client/services
 	* bidirection client/services 
 	* Spring Integration 
@@ -56,7 +56,12 @@
 	* Client-side Loadbalancing 
 	* resolving other micro services using Spring Cloud for Kubernetes API directly
 
-* Packaging for Production 
+* Spring Native 
+	* intro to AOT, GraalVM, the `native-image` CLI, etc. 	
+	* basics
+	* hints
+
+* Packaging for Production (done)
 	* Docker, Buildpacks, KPack, etc.
 	* Spring Native and GraalVM 
 
