@@ -8,6 +8,16 @@
 	* First Steps with Spring Boot 
 	* First Steps with Kubernetes 
 
+* That continuous thing 
+	* talking about continuous integration and continuous delivery 
+		* maybe show how to setup Github Actions and use 
+	* gitops 
+	* consistency at scale 
+		* the spring boot maven formatter plugin
+		* artifactory or something like that?
+	* should each microservice deploy itself, or should each microservice kick off a CD pipeline which takes care to deploy everything as necessary? 
+	* i should show both workflows, and show how to use the github API to trigger other workflows in Github Actions. 
+	
 * Reactive Programming 
 	* Motivating Reactive Programming
 	* Reactor 
@@ -55,9 +65,4 @@
 	* using the Kubernetes Java API 
 	* Turning the application into a native binary with GraalVM and Spring Native 
 
-* That continuous thing 
-	* talking about continuous integration and continuous delivery 
-		* maybe show how to setup Github Actions and use 
-	* gitops 
-	* should each microservice deploy itself, or should each microservice kick off a CD pipeline which takes care to deploy everything as necessary? 
 
