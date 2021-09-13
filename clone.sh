@@ -4,6 +4,7 @@ base=git@github.com:cloud-native-java-with-k8s-livelessons
 for repo in   \
 		configuration \
 		bootcamp \
+		spring-native \
 		programming-the-platform  \
 	 	packaging-for-production \
 	 	service-registration-and-discovery \
@@ -11,8 +12,6 @@ for repo in   \
  		edge-services \
  		azure-spring-cloud \
  		rsocket \
- 		kotlin \
- 		reactive-programming \
  	   ; do 
 	
 	clone_dir=$(dirname $0)/../$repo 
