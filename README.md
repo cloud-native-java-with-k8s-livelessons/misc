@@ -6,6 +6,7 @@
 * Bootcamp: this will be our first hands-on experience. It'll be useful as a way to validate that we have most everything required for the course
 	* First Steps with Spring 
 	* First Steps with Spring Boot 
+	* reactive programming
 	* First Steps with Kubernetes 
 
 * That continuous thing 
@@ -18,11 +19,6 @@
 	* should each microservice deploy itself, or should each microservice kick off a CD pipeline which takes care to deploy everything as necessary? 
 	* i should show both workflows, and show how to use the github API to trigger other workflows in Github Actions. 
 	
-* Reactive Programming 
-	* Motivating Reactive Programming
-	* Reactor 
-	* Spring Webflux and Spring Data R2DBC
-	* Testing Reactive Applications 
 
 * Kotlin 
 	* Reactive Streams and coroutines 
