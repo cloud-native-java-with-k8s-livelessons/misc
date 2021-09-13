@@ -64,7 +64,8 @@
 	* Spring Integration 
 
 * Edge Services  (done)
-	* API Gateways with Spring Cloud Gateway
-	* Reactive service orchestration and composition 
-	* Reliability Patterns like circuit breakers
-	* GraphQL 
+ * introducing the existing services 
+ * introducing Spring Cloud Gateway
+ * introducing Eureka for service registration and discovery and client-side loadbalancing
+ * Introducing reactive service orchestration and composition
+ * introducing Spring GraphQL for data gateways
