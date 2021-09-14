@@ -33,6 +33,7 @@
 	* resolving other micro services using Spring Cloud for Kubernetes API directly
 
 * Packaging for Production (done)
+	* Introduction 
 	* Building a Docker image with a Dockerfile 
 	* Building a Docker image with Buildpacks 
 	* Using the Spotify Maven Plugin
