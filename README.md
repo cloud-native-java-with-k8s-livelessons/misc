@@ -36,8 +36,8 @@
 	* Introduction 
 	* Building a Docker image with a Dockerfile 
 	* Building a Docker image with Buildpacks 
-	* Using the Spotify Maven Plugin
 	* Using the Google Jib Maven Plugin
+	* Using the Spotify Maven Plugin
 	* Using the Spring Boot Maven Plugin
 	* Using the Spring Boot Maven Plugin and Spring Native GraalVM 
 
