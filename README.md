@@ -33,8 +33,12 @@
 	* resolving other micro services using Spring Cloud for Kubernetes API directly
 
 * Packaging for Production (done)
-	* Docker, Buildpacks, KPack, etc.
-	* Spring Native and GraalVM 
+	* Building a Docker image with a Dockerfile 
+	* Maven plugins like jib and the Spotify Maven plugin
+	* Buildpacks  	
+	* the Spring Boot Maven plugin
+	* GraalVM 
+
 
 
 * Working with the Kubernetes API from Spring 
