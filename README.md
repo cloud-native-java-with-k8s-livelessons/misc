@@ -34,10 +34,11 @@
 
 * Packaging for Production (done)
 	* Building a Docker image with a Dockerfile 
-	* Maven plugins like jib and the Spotify Maven plugin
-	* Buildpacks  	
-	* the Spring Boot Maven plugin
-	* GraalVM 
+	* Building a Docker image with Buildpacks 
+	* Using the Spotify Maven Plugin
+	* Using the Google Jib Maven Plugin
+	* Using the Spring Boot Maven Plugin
+	* Using the Spring Boot Maven Plugin and Spring Native GraalVM 
 
 
 
