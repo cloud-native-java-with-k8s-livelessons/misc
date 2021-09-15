@@ -48,6 +48,7 @@
 	* Turning the application into a native binary with GraalVM and Spring Native 
 
 * Spring Native (done)
+	* intro 
 	* building a basic application with the out of the box support
 	* looking at various hints 
 	* packaging your own hints 
