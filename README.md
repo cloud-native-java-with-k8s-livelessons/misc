@@ -21,7 +21,10 @@
 	* The Spring Boot Admin 
 
 * Configuration 
+ 	* Intro
 	* Basics (`Environemnt`, `PropertySource` , `@ConfigurationProperties`, various environment specific configuration sources)
+	* Configuration Binding 
+	* The Environment Abstraction
 	* Refreshable Configuration (`@RefreshScope`)
 	* the Spring Cloud Config Server 
 	* the Spring Cloud Bus and Spring Cloud Config Monitor
