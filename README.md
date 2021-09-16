@@ -21,11 +21,11 @@
 	* The Spring Boot Admin 
 
 * Configuration 
-	* The Spring Environment abstraction 
-	* the Refresh Scope
-	* The Spring Cloud Config Server
-	* Reading data from config trees and environment variables in a Kubernetes environment 
-	* Reading and re-reading configuration data directly from the Kubernetes `ConfigMap` structure itself using the API and Spring Cloud Kubernetes' ConfigMap support
+	* Basics (`Environemnt`, `PropertySource` , `@ConfigurationProperties`, various environment specific configuration sources)
+	* Refreshable Configuration (`@RefreshScope`)
+	* the Spring Cloud Config Server 
+	* the Spring Cloud Bus and Spring Cloud Config Monitor
+
 
 * Service Registration and Discovery 
 	* Discovery Servers 
@@ -41,8 +41,6 @@
 	* Using the Spring Boot Maven Plugin
 	* Using the Spring Boot Maven Plugin and Spring Native GraalVM 
 
-
-
 * Working with the Kubernetes API from Spring 
 	* using the Kubernetes Java API 
 	* Turning the application into a native binary with GraalVM and Spring Native 
@@ -52,7 +50,6 @@
 	* building a basic application with the out of the box support
 	* looking at various hints 
 	* packaging your own hints 
-
 
 * Motivating Cloud Native (done): a discussion of what motivates people to embrace cloud native software architectures, and what cloud native architecture even refers to in the context of this course, if not universally. 
 

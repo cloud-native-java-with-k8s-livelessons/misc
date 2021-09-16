@@ -3,6 +3,7 @@ base=git@github.com:cloud-native-java-with-k8s-livelessons
 
 for repo in   \
 		configuration \
+		configuration-config \
 		bootcamp \
 		spring-native \
 		programming-the-platform  \
