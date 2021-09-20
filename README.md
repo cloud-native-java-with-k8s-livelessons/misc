@@ -58,10 +58,10 @@
 
 * Bootcamp (done): this will be our first hands-on experience. It'll be useful as a way to validate that we have most everything required for the course
 	* First steps with Java (steer them to the Java 11 GraalVM release)
+	* First steps with Kotlin 
 	* First Steps with Spring 
 	* First Steps with Spring Boot
 	* First steps with Reactive
-	* First steps with Kotlin 
 	* First Steps with Docker 
 	* First Steps with Kubernetes 
 
