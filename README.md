@@ -33,7 +33,8 @@
 
 
 * Service Registration and Discovery 
-	* Discovery Servers 
+	* Intro 
+	* The Discovery Service
 	* Client-side Loadbalancing 
 	* resolving other micro services using Spring Cloud for Kubernetes API directly
 
