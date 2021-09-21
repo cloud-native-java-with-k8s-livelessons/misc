@@ -16,8 +16,10 @@
 
 * Building Observable Services 
 	* the Spring Boot Actuator 
+	* the Spring Boot Actuator and Kubernetes
 	* TSDBs and Micrometer
 	* Distributed Tracing with Spring Cloud Sleuth 
+	* VMware Wavefront
 	* The Spring Boot Admin 
 
 * Configuration 
